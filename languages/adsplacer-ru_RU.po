@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdsPlace'r v 1.0\n"
+"POT-Creation-Date: 2015-08-27 10:19+0300\n"
+"PO-Revision-Date: 2015-08-27 10:19+0300\n"
+"Last-Translator: mojWP <admin@mojwp.ru>\n"
+"Language-Team: mojWP <admin@mojwp.ru>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adsplacer.php:21
+msgid ""
+"Manage ad blocks in the articles separately for visitors to the PC and "
+"mobile OS"
+msgstr ""
+"Управление рекламными блоками в статьях отдельно для посетителей с PC и с "
+"мобильных ОС"
+
+#: adsplacer.php:145 adsplacer.php:274
+msgid "Settings"
+msgstr "Настройки"
+
+#: adsplacer.php:146 adsplacer.php:555
+msgid "Instruction"
+msgstr "Инструкция"
+
+#: adsplacer.php:223
+msgid "Disable all ads in this article"
+msgstr "Отключить все рекламные блоки"
+
+#: adsplacer.php:226
+msgid "Disable ads before the article"
+msgstr "Отключить рекламный блок сверху"
+
+#: adsplacer.php:229
+msgid "Disable ads in the middle of article"
+msgstr "Отключить рекламный блок по центру"
+
+#: adsplacer.php:232
+msgid "Disable ads after the article"
+msgstr "Отключить рекламный блок в конце"
+
+#: adsplacer.php:279
+msgid "For PC"
+msgstr "Для PC"
+
+#: adsplacer.php:280
+msgid "For Mobile"
+msgstr "Для Мобильных"
+
+#: adsplacer.php:310 adsplacer.php:364
+msgid "Code "
+msgstr "Код "
+
+#: adsplacer.php:391
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: adsplacer.php:405 adsplacer.php:454
+msgid "Before content"
+msgstr "До контента"
+
+#: adsplacer.php:406 adsplacer.php:455
+msgid "Is shown before the main content of the article"
+msgstr "Выводится перед основным контентом записи"
+
+#: adsplacer.php:411 adsplacer.php:460
+msgid "In content"
+msgstr "В контенте"
+
+#: adsplacer.php:412 adsplacer.php:461
+msgid "Is shown exactly in the middle of the article"
+msgstr "Выводится ровно по центру статьи"
+
+#: adsplacer.php:417 adsplacer.php:466
+msgid "After content"
+msgstr "После контента"
+
+#: adsplacer.php:418 adsplacer.php:467
+msgid "Is shown directly after the content"
+msgstr "Выводится сразу за контентом"
+
+#: adsplacer.php:425 adsplacer.php:430 adsplacer.php:435 adsplacer.php:440
+#: adsplacer.php:445 adsplacer.php:474 adsplacer.php:479 adsplacer.php:484
+#: adsplacer.php:489 adsplacer.php:494
+msgid "Arbitrary advertising unit"
+msgstr "Произвольный рекламный блок"
+
+#: adsplacer.php:426 adsplacer.php:431 adsplacer.php:436 adsplacer.php:441
+#: adsplacer.php:446 adsplacer.php:475 adsplacer.php:480 adsplacer.php:485
+#: adsplacer.php:490 adsplacer.php:495
+msgid ""
+"Advertisement is shown in the arbitrary place of the site by means of a "
+"short-code"
+msgstr "Реклама в произвольном месте сайта при помощи шорткода"

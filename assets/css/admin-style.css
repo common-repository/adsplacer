@@ -1,0 +1,145 @@
+#adsplacer_settings_tabs {
+    overflow: hidden;
+}
+
+#adsplacer_settings_tabs ul {
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0;
+    padding-left: 10px;
+}
+
+#adsplacer_settings_tabs ul li {
+    float: left;
+    overflow: hidden;
+    margin: 0 5px 0 0;
+    background: #f1f1f1;
+    border: 1px solid transparent;
+    border-bottom: none;
+}
+
+#adsplacer_settings_tabs ul li a {
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+    color: #555;
+    display: block;
+    padding: 10px 20px;
+}
+
+@media ( max-width: 370px ) {
+    #adsplacer_settings_tabs ul li a {
+        padding: 10px 14px;
+    }
+}
+
+.custom-ads-tabs {
+    padding: 50px 0 0 0;
+}
+
+#adsplacer_settings_tabs .custom-ads-tabs > ul > li a {
+    font-size: 13px;
+    padding: 6px 10px;
+}
+
+#adsplacer_settings_tabs ul li.ui-state-active {
+    background: #e4e4e4;
+    border: 1px solid #ccc;
+    border-bottom: none;
+}
+
+#adsplacer_settings_tabs ul li.ui-state-active a {
+    color: #000;
+}
+
+.adsplacer-tabs {
+    padding: 0 20px;
+}
+
+@media ( min-width: 1100px ) {
+
+    .tab-area {
+        width: 30%;
+        float: left;
+        margin: 0 3% 0 0;
+    }
+
+    .tab-area:last-child {
+        margin: 0;
+    }
+
+}
+
+.custom-ads-tab-area {
+    width: 100%;
+    max-width: 700px;
+}
+
+li#toplevel_page_adsplacer div.wp-menu-image:before {
+    content: "\f155";
+    font-family: 'FontAwesome' !important;
+    font-size: 18px !important;
+}
+.autor_plugin {
+    margin-top: 50px;
+}
+.autor_plugin > div {
+    background: #fff none repeat scroll 0 0;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 5px;
+    width: 200px;
+}
+.autor_plugin img {
+    float: left;
+    margin: 5px 10px 5px 5px;
+}
+.wrap.instruction > ul {
+    margin-left: 15px;
+}
+.wrap.instruction li {
+    list-style: inside none disc;
+}
+.adsplacer_settings_promo_link {
+    font-size: 18px;
+}
+
+.adsplacer-promo {
+    margin: 20px 0;
+    background: #fff;
+    box-shadow: 0 4px 12px -4px rgba(21, 34, 53, .2);
+    border-radius: 5px;
+    padding: 15px 20px;
+    font-size: 14px;
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+
+.adsplacer-promo__item {
+    position: relative;
+    flex: 1 0 0;
+    margin: 20px 0;
+    padding-left: 35px;
+    box-sizing: border-box;
+}
+
+.adsplacer-promo__item a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.adsplacer-promo__item:before {
+    content: '✅';
+    position: absolute;
+    left: 0;
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+    .adsplacer-promo {
+        display: flex;
+    }
+    .adsplacer-promo__item {
+        margin: 0;
+    }
+}
